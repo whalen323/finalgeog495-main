@@ -1,0 +1,354 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.336888076465812, 47.714248258374525]
+            },
+            "properties": {
+                "facility": "UW Medical Center - Northwest",
+                "website": "https://www.uwmedicine.org/locations/northwest-hospital",
+                "phoneFormatted": "(877) 694-4677",
+                "phone": "8776944677",
+                "address": "1550 N 115th ST",
+                "city": "Seattle",
+                "country": "United States",
+                "postalCode": "98103",
+                "state": "WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.379555320759337, 47.667365010590466]
+            },
+            "properties": {
+                "facility": "Swedish Medical Center - Ballard Campus",
+                "website": "https://www.swedish.org/locations/ballard-campus",
+                "phoneFormatted": "(206) 782-2700",
+                "phone": "2025078357",
+                "address": "5300 Tallman Ave NW",
+                "city": "Seattle",
+                "country": "United States",
+                "postalCode": "98107",
+                "state": "WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.341418602386113, 47.457799759385999]
+            },
+            "properties": {
+                "facility": "Highline Medical Center",
+                "website": "https://www.chifranciscan.org/highline-medical-center.html",
+                "phoneFormatted":"(206) 244-9970",
+                "phone": "2023879338",
+                "address": "16251 Sylvester Rd SW",
+                "city": "Burien",
+                "country": "United States",
+                "postalCode": "98166",
+                "state": "WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.214120881170544, 47.442273259246448]
+            },
+            "properties": {
+                "facility": "Valley Medical Center",
+                "website": "https://www.uwmedicine.org/locations/valley-medical-center#main-tab",
+                "phoneFormatted": "(425) 690-1000",
+                "phone": "2023379338",
+                "address": "400 S 43rd St",
+                "city": "Renton",
+                "country": "United States",
+                "postalCode": "98055",
+                "state": "WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.327278755847601, 47.292612055039413]
+            },
+            "properties": {
+                "facility": "St. Francis Hospital",
+                "website": "https://www.chifranciscan.org/st-francis-hospital.html",
+                "phoneFormatted":"(253) 835-8100",
+                "phone": "2538358100",
+                "address": "34515 9th Ave S",
+                "city": "Federal Way",
+                "country": "United States",
+                "postalCode": "98003",
+                "state": "WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-121.885359764122711, 47.512386573924658]
+            },
+            "properties": {
+                "facility":"Snoqualmie Valley Hospital",
+                "website":"http://snoqualmiehospital.org/services/hospital-patients-and-families/",
+                "phoneFormatted":"(425) 831-2300",
+                "phone": "4258312300",
+                "address":"9801 Frontier Ave SE",
+                "city": "Snoqualmie",
+                "country": "United States",
+                "postalCode": "98065",
+                "state": "WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.321927610488899, 47.608842030960048 ]
+            },
+            "properties": {
+                "facility": "Swedish Medical Center - First Hill",
+                "website": "https://www.swedish.org/locations/first-hill-campus", 
+                "phoneFormatted": "(301) 654-7336",
+                "phone":"3016547336",
+                "address": "747 Broadway",
+                "city": "Seattle",
+                "country": "United States",
+                "postalCode": "98122",
+                "state": "WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.228885591977402, 47.309290882294526]
+            },
+            "properties": {
+                "facility": "MultiCare Auburn Medical Center",
+                "website": "https://www.multicare.org/auburn-medical-center/",
+                "phoneFormatted": "(253) 833-7711",
+                "phone": "2538337711",
+                "address":"202 N Division St",
+                "city": "Auburn",
+                "country": "United States",
+                "postalCode": "98001",
+                "state": "WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.187688383438186, 47.62149342393807]
+            },
+            "properties": {
+                "facility": "Overlake Hospital Medical Center",
+                "website": "https://www.overlakehospital.org/",
+                "phoneFormatted": "(425) 688-5000",
+                "phone": "4256885000",
+                "address": "1035 116th Ave NE",
+                "city": "Bellevue",
+                "country": "United States",
+                "postalCode": "98004",
+                "state": "WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.281457895762173, 47.662313022406302]
+            },
+            "properties": {
+                "facility":"Seattle Children's Hospital",
+                "website": "https://www.seattlechildrens.org/",
+                "phoneFormatted": "(206) 987-2000",
+                "phone": "2069872000",
+                "address": "4800 Sand Point Way NE",
+                "city": "Seattle",
+                "country": "United States",
+                "postalCode": "98105",
+                "state": "WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.327930082287978, 47.609530308915879]
+            },
+            "properties": {
+                "facility": "Virginia Mason Medical Center",
+                "website": "https://www.virginiamason.org/seattle",
+                "phoneFormatted": "(206) 223-6600",
+                "phone": "2062236600",
+                "address": "1100 9th St",
+                "city": "Seattle",
+                "country": "United States",
+                "postalCode": "98101",
+                "state": "WA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.178706906289818, 47.715810980033567]
+            },
+            "properties": {
+                "facility": "EvergreenHealth - Kirkland",
+                "website": "https://www.evergreenhealth.com/",
+                "phoneFormatted": "(425) 899-2621",
+                "phone":"4258992621",
+                "address": "12040 NE 128th St",
+                "city": "Kirkland",
+                "country": "United States",
+                "postalCode": "98034",
+                "state": "WA"
+            }
+            
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.309656422647535, 47.607054779202862]
+            },
+            "properties": {
+                "facility": "Swedish Medical Center - Cherry Hill",
+                "website": "https://www.swedish.org/locations/cherry-hill-campus",
+                "phoneFormatted": "(206) 320-2000",
+                "phone":"2063202000",
+                "address": "500 17th Ave",
+                "city": "Seattle",
+                "country": "United States",
+                "postalCode": "98122",
+                "state": "WA"
+            }
+            
+        },        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.309169153005001, 47.562453874063173]
+            },
+            "properties": {
+                "facility": "Seattle VA Medical Center",
+                "website": "https://www.pugetsound.va.gov/locations/directions.asp",
+                "phoneFormatted": "(800) 329-8387",
+                "phone":"8003298387",
+                "address": "1660 S Columbian Way",
+                "city": "Seattle",
+                "country": "United States",
+                "postalCode": "98108",
+                "state": "WA"
+            }
+            
+        },        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.021929846430595, 47.536105830228884]
+            },
+            "properties": {
+                "facility": "Swedish Medical Center - Issaquah Campus",
+                "website": "https://www.swedish.org/locations/issaquah-campus",
+                "phoneFormatted": "(425) 313-4000",
+                "phone":"4253134000",
+                "address": "751 NE Blakely Dr",
+                "city": "Issaquah",
+                "country": "United States",
+                "postalCode": "98029",
+                "state": "WA"
+            }
+            
+        },        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.312275500013811, 47.620135753647716]
+            },
+            "properties": {
+                "facility": "Kaiser Permanente Capitol Hill Campus",
+                "website": "https://wa.kaiserpermanente.org/html/public/locations/capitol-hill",
+                "phoneFormatted": "(800) 562-6300",
+                "phone":"8005626300",
+                "address": "201 16th Ave E",
+                "city": "Seattle",
+                "country": "United States",
+                "postalCode": "98112",
+                "state": "WA"
+            }
+            
+        },        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-121.987759744094475, 47.209180063142668]
+            },
+            "properties": {
+                "facility": "St. Elizabeth Hospital",
+                "website": "https://www.chifranciscan.org/st-elizabeth-hospital.html",
+                "phoneFormatted": "(360) 802-8800",
+                "phone":"3608028800",
+                "address": "1455 Battersby Ave",
+                "city": "Emunclaw",
+                "country": "United States",
+                "postalCode": "98022",
+                "state": "WA"
+            }
+            
+        },        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.323768943740106, 47.603993044413379]
+            },
+            "properties": {
+                "facility": "Harborview Medical Center",
+                "website": "https://www.uwmedicine.org/locations/harborview-medical-center",
+                "phoneFormatted": "(206) 744-3000",
+                "phone":"2067443000",
+                "address": "325 9th Ave", 
+                "city": "Seattle",
+                "country": "United States",
+                "postalCode": "98104",
+                "state": "WA"
+            }
+            
+        },        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.309072347669812, 47.650344116857902]
+            },
+            "properties": {
+                "facility": "University of Washington Medical Center",
+                "website": "https://www.uwmedicine.org/locations/uw-medical-center", 
+                "phoneFormatted": "(206) 598-3300",
+                "phone":"2065983300",
+                "address": "1959 NE Pacific St",
+                "city": "Seattle",
+                "country": "United States",
+                "postalCode": "98195",
+                "state": "WA"
+            }
+            
+        }
+    ]
+}
