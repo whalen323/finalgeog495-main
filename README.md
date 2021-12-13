@@ -142,6 +142,7 @@ This function sorts the hospitals by distance and then rebuilds the list displye
                     [sortedLons[1], sortedLats[1]]
                 ];
             }
+            
             ```
 This function generates a viewing window that encompasses both the selected coordinates and the closest hospital. 
 
